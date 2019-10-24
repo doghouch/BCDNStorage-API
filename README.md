@@ -1,5 +1,7 @@
 # BunnyCDN.Java.Storage
-API Client for BunnyCDN (written in Java)
+NOTE: THIS REPOSITORY IS NOT MAINTAINED.
+
+Please visit https://github.com/BunnyWay/BunnyCDN.Java.Storage for the latest client.
 
 ## Introduction
 
